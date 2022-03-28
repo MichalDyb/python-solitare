@@ -1,4 +1,4 @@
-# python-solitare
+# solitare-klondlike
 
 This project contains a Solitaire game created with Python and PyGame library.
 
@@ -11,8 +11,8 @@ This app includes:
 How to run:
 * first go to src folder
 * next run terminal and activate virtual enviroment by typing:
-o „./Scripts/activate” – unix/macOS
-o „Scripts\activate” – Windows
-* last in the same terimnal window write „python main.py” and confirm
+o â€./Scripts/activateâ€ â€“ unix/macOS
+o â€Scripts\activateâ€ â€“ Windows
+* last in the same terimnal window write â€python main.pyâ€ and confirm
 
 
